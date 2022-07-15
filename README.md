@@ -1,7 +1,7 @@
 ![](https://pbs.twimg.com/profile_banners/885095278218543105/1657819745/1500x500)
 
 ### Hi, I'm Sohel Arman
-##W Web Application Developer
+## Web Application Developer
 
 The hobby has been working with web programming since childhood. So move forward with willpower. And giving a good job gift to the client from the get-go. So I have created skills along with getting the certificate.
 
