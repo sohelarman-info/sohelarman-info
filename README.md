@@ -12,7 +12,7 @@ Skills: HTML / CSS / Bootstrap / PHP / JavaScript / Laravel
 - 👯 I’m looking to collaborate on working remotely. 
 - 🤔 I’m looking for help with live project. 
 - 💬 Ask me about something? 
-- 📫 How to reach me: please visit www.lamcoder.com 
+- 📫 How to reach me: please visit www.sohelarman.xyz 
 - ⚡ Fun fact: Coding is my Fun Robot. 
 
 
